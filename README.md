@@ -44,3 +44,7 @@ The app will plot the graph of f(x) = x^3 - 3x and label the x-intercepts, y-int
 
 ![Figure_1](https://user-images.githubusercontent.com/114011447/236684561-5cd61c96-2241-47e0-922b-f2849c10a8df.png)
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
